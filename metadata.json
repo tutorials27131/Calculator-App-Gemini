@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Smart Calc",
+  "description": "A high-performance calculator combining standard arithmetic with natural language mathematical reasoning powered by Gemini 3 Flash.",
+  "requestFramePermissions": []
+}
